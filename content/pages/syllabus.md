@@ -44,10 +44,39 @@ Grading
 
 75% of the course grade will be based on quizzes, which will be given in class during the normal lecture period. There will be three of these quizzes, and there will be no final exam. The remaining 25% of the grade will be based on problem sets. Problem sets will normally be assigned every week, but there will be some breaks due to holidays and in-class quizzes. There will be 10 problem sets altogether.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Three Quizzes | 75 |
-| Problem Sets | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+75
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Special Relativity
 ------------------
